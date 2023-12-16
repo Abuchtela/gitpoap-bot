@@ -23,7 +23,7 @@
     "cors": "^2.8.5",
     "cross-fetch": "^3.1.5",
     "issue-parser": "^6.0.0",
-    "octokit": "^2.0.10",
+    "octokit": "^3.1.2",
     "probot": "^12.2.8"
   },
   "devDependencies": {
